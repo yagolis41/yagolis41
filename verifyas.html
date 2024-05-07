@@ -1,0 +1,4 @@
+<meta http-equiv="refresh" content="1; url=">
+<script>
+document.location.href = 'https://hautgame.com/'+window.location.href.split('#')[1];
+</script>
